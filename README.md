@@ -13,7 +13,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/demmibot/field_research_app?style=for-the-badge)
 
 
-> App para geração e preenchimento de formulários para pesquisas de campo.
+> App para criação e preenchimento de formulários para pesquisas de campo.
 
 ### Objetivos
 
