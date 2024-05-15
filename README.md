@@ -19,7 +19,7 @@
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
-- [x] Geração e desenvolvimento de formulários
+- [x] Criação e desenvolvimento de formulários
 - [x] Implementação frontend mobile
 - [ ] Implementação frontend web
 - [ ] Testes unitários e git actions
