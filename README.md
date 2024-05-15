@@ -1,6 +1,9 @@
-# SurveyDM app
+# SurveyDM App
 
-![Logo lindona splash](https://github.com/DemmiBot/field_research_app/assets/79986449/e0e46b05-b396-4a58-a44c-dd5d3eb2ec7b)
+![Design sem nome](https://github.com/gabrieelfelix/SurveyDm/assets/102039571/cb0bdb34-5f70-442b-9005-a834bb13f93c)
+
+
+
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/demmibot/field_research_app?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/demmibot/field_research_app?style=for-the-badge)
@@ -10,7 +13,7 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/demmibot/field_research_app?style=for-the-badge)
 
 
-> App para geração e preenchimento de formulários a-lá google forms.
+> App para geração e preenchimento de formulários para pesquisas de campo.
 
 ### Objetivos
 
@@ -24,7 +27,6 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [ ] Remodelagem de banco de dados utilizando relações ao invés de EAV (Entity-Attribute-Value, pesquise baby)
 - [ ] Funcionalidades extras de gerênciamento de usuários e extração de resultados
 - [ ] Simplificação de deploy para disponibilizar instalação
-- [ ] ?
 - [ ] Rounding-up everything else
 
 <!--
@@ -37,7 +39,11 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
 -->
 
-## ✏️ Figma: https://www.figma.com/file/DONkjpP2sNxQQm9fuo8V13/Projeto-Pesquisa-App?type=design&node-id=0%3A1&mode=design&t=x0gn7yP51czxJ4Am-1
+## ✏️ Figma
+
+<img src="https://github.com/DemmiBot/field_research_app/assets/79986449/e0e46b05-b396-4a58-a44c-dd5d3eb2ec7b" alt="Logo lindona splash" width="150">
+
+https://www.figma.com/file/DONkjpP2sNxQQm9fuo8V13/Projeto-Pesquisa-App?type=design&node-id=0%3A1&mode=design&t=x0gn7yP51czxJ4Am-1
 
 ## Run in postman
 
@@ -45,9 +51,10 @@ Easily copy the postman workspace for API endpoint testing!
 
 [<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/19908095-7755153a-48a3-41b4-8850-7a6f901d5271?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D19908095-7755153a-48a3-41b4-8850-7a6f901d5271%26entityType%3Dcollection%26workspaceId%3D54d25f1d-8807-4819-9592-ebfc13f8c872)
 
+
 ## 🚀 Instalando SurveyDM
 
-🚧 Método de instalação em andamento! Prometo que fica pronto no próximo commit 😎 🚧
+🚧 Método de instalação em andamento! 🚧
 <!--
 Para instalar o <nome_do_projeto>, siga estas etapas:
 
@@ -115,7 +122,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <!--
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes. (ajustar)
+Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes. 
 -->
 
 ## Docker and database:
